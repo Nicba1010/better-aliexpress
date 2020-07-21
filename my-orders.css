@@ -1,0 +1,8 @@
+#buyer-ordertable tbody tr.order-body td {
+    padding-bottom: 15px;
+}
+
+#all-tracking-numbers-buttons-container {
+    float: right;
+    width: auto;
+}
